@@ -30,7 +30,6 @@
     #t_2_1
     .titulo-segundo
       h2 2.1 Tipos de declaración
-    p.mb-5 La temática que vamos a desarrollar está orientada a conocer cuál es la normativa aduanera que utilizan los países para la clasificación de las mercancías en las operaciones de comercio exterior con el objetivo de establecer las tarifas o impuesto a recaudar por los gobiernos nacionales, así mismo busca proteger a las empresas locales o nacionales de la competencia internacional.
     TabsA.color-acento-botones
       .tarjeta.color-acento-botones--borde.p-4(titulo="Declaración anticipada de importación")
         .row.align-items-center
@@ -107,6 +106,7 @@
         p Las operaciones de compra y venta de divisas para los procesos de importación y exportación son realizadas a través de intermediarios financieros que transan en los mercados cambiarios las negociaciones de las divisas se realizan teniendo como referencia la tasa representativa del mercado (TRM) y que son calculadas por la Superintendencia Financiera de Colombia.
     p El tipo de cambio de cada país está determinado por el régimen cambiario; es decir, la forma en que decide administrar el valor de su moneda respecto a otras.
     p.mb-5 Los regímenes cambiarios más conocidos son el tipo de cambio fijo, flexible y las bandas cambiarias. Veamos:
+    .h4.text-center.mb-5 Entre los principales tipos de cambio, encontramos:
     .row.justify-content-around(data-aos="fade-left")
       .col-lg-3.bg-color2.p-4.mb-4
         figure.mb-4
@@ -124,9 +124,9 @@
         .h4.text-center Bandas cambiarias
         p.text-center El Banco de la República fija una banda y deja que las divisas se muevan libremente, cuando alcanza el techo o el piso de la banda la autoridad interviene ya sea vendiendo o comprando divisas. Se considera un esquema intermedio entre el tipo de cambio fijo y flexible.
     separador.mb-5
-    #t_2_5
+    #t_2_6
     .titulo-segundo
-      h2 2.5 Tipos de cambio
+      h2 2.6 Unidades de medida
     p Las operaciones comerciales, requieren de un lenguaje común en relación con nombres y símbolos de las unidades de medida, así como la observancia de reglas para su utilización, que posibiliten el intercambio de información. Entre estas encontramos:
     TabsC.color-primario
       .py-3.py-md-4(titulo="Unidades físicas")

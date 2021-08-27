@@ -58,7 +58,7 @@
                     img(src='@/assets/curso/img3.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
               .cajon.color-primario.p-4
                 p En el caso colombiano se adopta a través de un decreto, expedido por el presidente de la República. La estructura del arancel está recomendada a nivel global por la organización Mundial de Aduanas -OMA.
-          .row(numero="3" titulo="¿Qué es el Arancel de Aduanas?")
+          .row(numero="3" titulo="¿Cómo se clasifican los aranceles?")
             .col-12.p-4
               p.mb-5 Con base en el criterio de liquidación, los aranceles se pueden clasificar en:
               .tarjeta-avatar-b.mb-5
@@ -158,6 +158,7 @@
                 td.text-center 6
                 td La clasificación de mercancías en las subpartidas de una misma partida está determinada legalmente por los textos de estas subpartidas y de las Notas de subpartida, así como, mutatis mutandis, por las Reglas anteriores.
     p.mb-5 Este sistema se encuentra organizado de manera armonizada; a continuación, se presenta su orden en cuanto a la codificación arancelaria:
+    .h4.mb-4 Las secciones
     .row.align-items-center.mb-4
       .col-lg-6.mb-4.mb-lg-0
         .dual-txt-deco
@@ -472,7 +473,6 @@
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Contenido de la inspección pre embarque de producto general")
             .col-12.p-4
-              p Por el cual se crea la Unidad Nacional para la Gestión del Riesgo de Desastres, se establece su objeto y estructura (Decreto 4147/2011, p. 1).
               ol.lista-ol--cuadro
                 li 
                   .lista-ol--cuadro__vineta
