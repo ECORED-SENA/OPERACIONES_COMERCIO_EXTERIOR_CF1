@@ -137,7 +137,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/img21.png', alt='Texto que describa la imagen')
-      .py-3.py-md-4(titulo="Inspecciones de carácter voluntario")
+      .py-3.py-md-4(titulo="Unidades comerciales")
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Unidades comerciales
