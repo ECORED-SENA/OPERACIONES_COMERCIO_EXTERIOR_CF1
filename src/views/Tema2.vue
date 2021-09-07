@@ -56,7 +56,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure
-            img(src='@/assets/curso/img17.png', style="width: 200px" ,alt='Texto que describa la imagen').m-auto
+            img(src='@/assets/curso/img17.png', style="width: 250px" ,alt='Texto que describa la imagen').m-auto
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p Las empresas que se dedican al comercio exterior, bien sea exportando o importando productos y mercancías, requieren conocer los documentos que obligan el proceso. Estos documentos deben coincidir plenamente entre las partes involucradas; es decir, entre el comprador y el vendedor, este último debe facilitarse a quien compra, de manera oportuna y legal, de esta forma será provechosa la transacción.
