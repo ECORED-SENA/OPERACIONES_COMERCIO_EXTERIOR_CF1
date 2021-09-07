@@ -321,7 +321,7 @@
     p.mb-5 Muy seguramente ahora nos surge la pregunta de: ¿Cómo consultar la partida arancelaria en Colombia?, para lo cual encontrará a continuación el paso a paso correspondiente:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Hi4nnravO3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
     separador.mb-5
     #t_1_2
     .titulo-segundo

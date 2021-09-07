@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
         figure(data-aos="fade-right")
           img(src='@/assets/curso/img1.png', style="width: 400px" ,alt='Texto que describa la imagen').m-auto
@@ -17,7 +17,8 @@
         p #[b ¡Muchos éxitos en este proceso de aprendizaje!]
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/L1KkmWdCkJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        
 
 </template>
 
