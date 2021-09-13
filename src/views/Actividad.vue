@@ -10,12 +10,12 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Actividad didáctica
+          h2 Clasificación arancelaria de mercancías
         p.mb-4 De acuerdo con el concepto de arancel y la clasificación de las mercancías en las subpartidas correspondientes , relacione  la subpartida de seis dígitos en las casillas que corresponda a la definición citada.dd
         .tarjeta.tarjeta--celeste.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Clasificación arancelaria de mercancías 
+              p.fw-bold.mb-0 Arrastrar y soltar
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
