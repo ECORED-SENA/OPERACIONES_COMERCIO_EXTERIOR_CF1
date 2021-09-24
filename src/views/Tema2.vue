@@ -103,7 +103,7 @@
             i.fas.fa-quote-left
             h5.mb-0 El tipo de cambio es una referencia que se usa en el mercado cambiario para conocer el número de unidades de moneda nacional que deben pagarse para obtener una moneda extranjera o similarmente, el número de unidades de moneda nacional que se obtienen al vender una unidad de moneda extranjera.
             i.fas.fa-quote-right
-        p Las operaciones de compra y venta de divisas para los procesos de importación y exportación son realizadas a través de intermediarios financieros que transan en los mercados cambiarios las negociaciones de las divisas se realizan teniendo como referencia la tasa representativa del mercado (TRM) y que son calculadas por la Superintendencia Financiera de Colombia.
+        p Las operaciones de compra y venta de divisas para los procesos de importación y exportación son realizadas a través de intermediarios financieros que transan en los mercados cambiarios las negociaciones de las divisas se realizan teniendo como referencia la Tasa Representativa del Mercado (TRM) y que son calculadas por la Superintendencia Financiera de Colombia.
     p El tipo de cambio de cada país está determinado por el régimen cambiario; es decir, la forma en que decide administrar el valor de su moneda respecto a otras.
     p.mb-5 Los regímenes cambiarios más conocidos son el tipo de cambio fijo, flexible y las bandas cambiarias. Veamos:
     .h4.text-center.mb-5 Entre los principales tipos de cambio, encontramos:

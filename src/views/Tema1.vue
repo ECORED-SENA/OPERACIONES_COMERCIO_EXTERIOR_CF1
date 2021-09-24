@@ -31,7 +31,7 @@
                 .tarjeta.tarjeta--azul
                   .p-4
                     h2 Es un tipo de tributo
-                    p El arancel es una obligación fiscal sostenida por los importadores y el estado colombiano y en el que mediante la entidad de la Dirección de impuestos y aduanas nacionales (DIAN), este impuesto es recaudado.
+                    p El arancel es una obligación fiscal sostenida por los importadores y el estado colombiano y en el que mediante la entidad de la Dirección de Impuestos y Aduanas Nacionales (DIAN), este impuesto es recaudado.
               .tarjeta-avatar-b.mb-5
                 .tarjeta-avatar-b__img
                   img(src='@/assets/curso/img2.svg' alt='AvatarTop')
@@ -57,7 +57,7 @@
                   figure
                     img(src='@/assets/curso/img3.png', style="width: 350px" ,alt='Texto que describa la imagen').m-auto
               .cajon.color-primario.p-4
-                p En el caso colombiano se adopta a través de un decreto, expedido por el presidente de la República. La estructura del arancel está recomendada a nivel global por la organización Mundial de Aduanas -OMA.
+                p En el caso colombiano se adopta a través de un decreto, expedido por el presidente de la República. La estructura del arancel está recomendada a nivel global por la Organización Mundial de Aduanas -OMA.
           .row(numero="3" titulo="¿Cómo se clasifican los aranceles?")
             .col-12.p-4
               p.mb-5 Con base en el criterio de liquidación, los aranceles se pueden clasificar en:
@@ -66,7 +66,7 @@
                   img(src='@/assets/curso/img4.svg' alt='AvatarTop')
                 .tarjeta.tarjeta--azul
                   .p-4
-                    h2 Especificos
+                    h2 Específicos
                     p Aquellos que se cobran en unidad monetaria por unidades de una determinada medida que puede ser de peso (libra, kilo, tonelada, etc.) volumen (centímetros, metros, toneladas etc.) de longitud (metro, centímetro etc.)
               .tarjeta-avatar-b.mb-5
                 .tarjeta-avatar-b__img
@@ -83,13 +83,13 @@
                     h2 Mixtos
                     p Aquellos que se calculan combinando un arancel específico y un arancel Ad Valorem.
                     <br>
-          .row(numero="4" titulo="¿Qué es la nomenclatura arancelaría?")
+          .row(numero="4" titulo="¿Qué es la nomenclatura arancelaria?")
             .col-12.p-4
               p Es un sistema, con base en números y por ello se llama “nomenclatura”.
               p.mb-5 Se basa en un lenguaje cifrado originado en un método y unas reglas que se aplican de manera mundial a seis dígitos y permite un lenguaje común, independientemente de las costumbres, idioma, políticas comerciales, etc. En resumen, mediante el uso de una codificación,  se clasifican y agrupan por categorías las mercancías objeto de comercio exterior.
               figure
                 img(src='@/assets/curso/img7.svg', style="width: 750px" ,alt='Texto que describa la imagen').m-auto
-          .row(numero="5" titulo="¿Cuáles son las particularidades de la nomenclatura arancelaría?")
+          .row(numero="5" titulo="¿Cuáles son las particularidades de la nomenclatura arancelaria?")
             .col-12.p-4
               p.mb-5 Una de sus características es que corresponde a una nomenclatura polivalente, la cual está concebida para clasificar mercancías transportables que son cerca de 5100 grupos de mercancías con código de seis cifras para ser utilizadas con distintos fines.
               .cajon.color-primario.p-4.mb-5
@@ -427,7 +427,7 @@
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h5.mb-0 Cuando hablamos de inspección de mercancías, debemos tener presente que ésta la realiza la autoridad aduanera competente. Se hace con el fin de establecer la naturaleza, el origen, el estado, la cantidad, el valor, la clasificación arancelaría, los tributos aduaneros, el régimen aduanero y el tratamiento tributario que es aplicable a una mercancía o producto determinado.
+            h5.mb-0 Cuando hablamos de inspección de mercancías, debemos tener presente que ésta la realiza la autoridad aduanera competente. Se hace con el fin de establecer la naturaleza, el origen, el estado, la cantidad, el valor, la clasificación arancelaria, los tributos aduaneros, el régimen aduanero y el tratamiento tributario que es aplicable a una mercancía o producto determinado.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
               p.mb-0 - Legiscomex, 2015

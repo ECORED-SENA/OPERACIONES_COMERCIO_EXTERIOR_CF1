@@ -129,53 +129,54 @@ export default {
   referencias: [
     {
       referencia:
-        'Arias, A. S. (28 de octubre de 2015). Arancel. economipedia.',
+        'Arias, A. S. (28 de octubre de 2015). Arancel. economipedia.  ',
       link: 'https://economipedia.com/definiciones/arancel.html',
     },
     {
-      referencia: 'Banxico educa. (2021). ¿Qué es el tipo de cambio?',
+      referencia: 'Banxico educa. (2021). ¿Qué es el tipo de cambio?  ',
       link:
         'http://educa.banxico.org.mx/banco_mexico_banca_central/sist-finc-tipo-cambio.html',
     },
     {
-      referencia: 'DIAN. (s.f.). DIAN. Declaración Anticipada de Importación.',
+      referencia:
+        'DIAN. (s.f.). DIAN. Declaración Anticipada de Importación.  ',
       link:
         'https://www.dian.gov.co/aduanas/Paginas/Declaracion-Anticipada-de-Importacion.aspx',
     },
     {
       referencia:
-        'Diario del Exportador. (agosto de 2021). La ficha técnica: definición, contenido y modelos.',
+        'Diario del Exportador. (agosto de 2021). La ficha técnica: definición, contenido y modelos.  ',
       link:
         'https://www.diariodelexportador.com/2018/05/la-ficha-tecnica-definicion-contenido-y.html',
     },
     {
       referencia:
-        'Guardiola-Esmeral, A. (2017). Sistema armonizado y clasificación arancelaria. (Documento de docencia N° 14). Bogotá: Ediciones Universidad Cooperativa de Colombia.',
+        'Guardiola-Esmeral, A. (2017). Sistema armonizado y clasificación arancelaria. (Documento de docencia N° 14). Bogotá: Ediciones Universidad Cooperativa de Colombia.  ',
       link:
         'https://repository.ucc.edu.co/bitstream/20.500.12494/20357/1/2017_NC_Sistema%20Armonizado%20y%20la%20clasificaci%C3%B3n%20arancelaria_Guardiola.pdf',
     },
     {
-      referencia: 'Icontec. (2021). Ficha técnica de producto.',
+      referencia: 'Icontec. (2021). Ficha técnica de producto.  ',
       link: 'https://www.icontec.org/portafolio-normalizacion/',
     },
     {
-      referencia: 'Legiscomex. (2008). Funciones del declarante autorizado.',
+      referencia: 'Legiscomex. (2008). Funciones del declarante autorizado.  ',
       link: 'https://www.legiscomex.com/Documentos/PROCESOEXPO_PASO12-1',
     },
     {
-      referencia: 'Legiscomex. (2015). Herramienta Decreto 993.',
+      referencia: 'Legiscomex. (2015). Herramienta Decreto 993.  ',
       link:
         'https://www.legiscomex.com/BancoMedios/Documentos%20PDF/herramienta-decreto-993-2015.pdf',
     },
     {
       referencia:
-        'Procolombia. (27 de enero de 2017). Organización Mundial de Aduanas (OMA) aprobó nueva clasificación arancelaria.',
+        'Procolombia. (27 de enero de 2017). Organización Mundial de Aduanas (OMA) aprobó nueva clasificación arancelaria.  ',
       link:
         'https://procolombia.co/actualidad-internacional/organizacion-mundial-de-aduanas-oma-aprobo-nueva-clasificacion-arancelaria',
     },
     {
       referencia:
-        'Procolombia. (s.f.). ¿Cómo identifico la posición arancelaria? ColombiaTrade.',
+        'Procolombia. (s.f.). ¿Cómo identifico la posición arancelaria? ColombiaTrade. ',
       link:
         'https://www.colombiatrade.com.co/contacto/preguntas-frecuentes/como-identifico-la-posicion-arancelaria',
     },
@@ -381,6 +382,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
